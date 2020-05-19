@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+	background: #00ecb9;
+	font-family: sans-serif;
+	font-weight: 100;
+	margin-top: 450px;
+}
+
+.timer-1 {
+	font-family: sans-serif;
+	color: #fff;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+}
+
+.field {
+	padding: 20px;
+	width: 150px;
+	height: 160px;
+	border-radius: 18px;
+	background: #00bf96;
+	display: inline-block;
+}
+
+.value {
+	padding: 50px 25px 25px;
+	border-radius: 15px;
+	background: #00816a;
+	display: block;
+	font-size: 55px;
+	color: #fff;
+	font-family: 'Special Elite', cursive;
+}
+
+.label {
+	padding-top: 5px;
+	font-size: 35px;
+	font-weight: 600;
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+}
